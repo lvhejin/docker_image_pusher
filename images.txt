@@ -8,7 +8,7 @@ assaflavie/runlike:1.5.2
 easzlab/kubeasz:3.6.3
 easzlab/kubeasz-k8s-bin:v1.29.0
 easzlab/kubeasz-ext-bin:1.9.0
-easzlab/kubeasz-sys-pkg:1.0.0
+easzlab/kubeasz-sys-pkg:1.0.0_centos_7
 easzlab/harbor-offline:v2.8.4
 calico/cni:v3.26.4
 calico/kube-controllers:v3.26.4
