@@ -5,3 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 easzlab/kubeasz:3.6.3
+assaflavie/runlike:1.5.2
